@@ -1,0 +1,22 @@
+{
+  "name": "rest-api-practice",
+  "version": "1.0.0",
+  "description": "Building a rest api practicing with try/catch and async/await",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bryanbilek/rest-api-practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bryanbilek/rest-api-practice/issues"
+  },
+  "homepage": "https://github.com/bryanbilek/rest-api-practice#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
